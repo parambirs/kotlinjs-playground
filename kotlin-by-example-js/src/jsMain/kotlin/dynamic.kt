@@ -1,4 +1,6 @@
 /*
+https://play.kotlinlang.org/byExample/09_Kotlin_JS/01_dynamic
+
 dynamic is a special type in Kotlin/JS. It turns off Kotlin's type checker. That is needed in
 order to interoperate with untyped or loosely typed environments, such as the JS ecosystem.
  */

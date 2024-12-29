@@ -1,4 +1,6 @@
 fun main() {
     println("Hello, Kotlin/JS!!!")
-    dynamic()
+//    dynamic()
+//    jsFunction()
+//    externalDeclaration()
 }
