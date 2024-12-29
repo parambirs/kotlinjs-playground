@@ -3,5 +3,6 @@ fun main() {
 //    dynamic()
 //    jsFunction()
 //    externalDeclaration()
-    html.htmlBuilder()
+//    html.htmlBuilder()
+    creatures.canvasMain()
 }
